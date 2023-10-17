@@ -1,1 +1,1 @@
-# Enrollment-Project
+This was a project done during my 4th week of CS 210. The goals of this project were to be able to take CSV files containing information on the majors of people in our class and output sorted tuples with the number of students, and the full name of their major. Throughout this project I learned the basics of accumulation, dictionaries, and working with CSV methods as well as working with spreadsheets in general.
